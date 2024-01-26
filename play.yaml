@@ -9,3 +9,5 @@ spec:
   resources:
     requests:
       storage: 2Gi
+      storage: APACHE
+      state: started
